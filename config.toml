@@ -3,5 +3,6 @@ languageCode = "ja"
 title = "Coo"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+theme = "ananke" # テーマの名前入れるとこと
 [taxonomies]
 tag = "tags"
